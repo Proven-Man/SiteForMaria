@@ -24,7 +24,7 @@ checkbox.addEventListener('change', function () {
 AdminPasswordSendBtn.addEventListener("click", (e) => {
     e.preventDefault();
     var adminCongr = document.getElementsByName('adminCongr')
-    if (password.value == "1111") {
+    if (password.value == "S3p99AahEZRy") {
         adminCongr[0].style = "display: inline;"
     }
     else {
