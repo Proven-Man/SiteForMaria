@@ -28,6 +28,6 @@ AdminPasswordSendBtn.addEventListener("click", (e) => {
         adminCongr[0].style = "display: inline;"
     }
     else {
-        adminCongr[0].style = "display: inline;"
+        adminCongr[0].style = "display: none;"
     }
 })
